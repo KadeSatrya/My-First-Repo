@@ -4,4 +4,4 @@ NPM  : 2106752376
 
 Kelas: C
 
-Hobi : -
+Hobi : Tidur
